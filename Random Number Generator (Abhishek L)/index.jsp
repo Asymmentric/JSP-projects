@@ -14,7 +14,7 @@ Generate a random number !!
 
 </h1>
 
-<form action="addToDo.jsp" method="post" id="frm">
+<form action="output.jsp" method="post" id="frm">
 	From:<input type="text" name="from">
 	To:<input type="text" name="to">
 	<input type="submit" value="Generate">
